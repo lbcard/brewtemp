@@ -1,0 +1,6 @@
+
+//Dependencies to install
+
+//in /js_libraries:
+bootstrap-4.1.3-dist
+Chart.js-master
