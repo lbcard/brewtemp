@@ -1,3 +1,7 @@
+############################
+#This file reads the data written to the database, formats it and saves it to a json file rady to be picked up by the UI
+############################
+
 import mysql.connector
 from datetime import datetime
 import json
